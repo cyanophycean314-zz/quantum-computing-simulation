@@ -7,7 +7,7 @@ Approximate agenda
 Qbit representation - Done! 
 Quantum gates
 	- unary - Done!
-	- binary
+	- binary - Done!
 	- arbitrary
 Implement Deutsch Jonza Algorithm
 Action on qbits by Hamiltonians
