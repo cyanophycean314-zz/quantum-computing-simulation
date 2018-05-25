@@ -8,8 +8,9 @@ Qbit representation - Done!
 Quantum gates
 	- unary - Done!
 	- binary - Done!
-	- arbitrary
-Implement Deutsch Jonza Algorithm
+	- arbitrary - Done!
+Implement Deutsch Jonza Algorithm - Done!
+	  - Can run on 10 qbits with runtime 2.864s. As expected, runtime increases exponentially
 Action on qbits by Hamiltonians
 Adiabatic simulation
 Approximate Optimization
